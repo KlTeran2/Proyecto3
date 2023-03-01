@@ -4,7 +4,7 @@
 
     FUNDAMENTO DE CIRCUITOS ELECTRICOS
 
-    Integrantes: Almachi Joseph
+    Integrantes: Almachi Joseph , Rocha Dilan , Teran Kail
 
     NRC: 10067
 
